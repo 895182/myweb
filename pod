@@ -1,3 +1,0 @@
-group of containers is called pod 
-pods are used to deployment purpose 
-D
